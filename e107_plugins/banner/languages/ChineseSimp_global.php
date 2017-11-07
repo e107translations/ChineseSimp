@@ -6,3 +6,5 @@
 
 define("LAN_PLUGIN_BANNER_NAME", "横幅");
 define("LAN_PLUGIN_BANNER_DESCRIPTION", "向你 e107 网站添加横幅广告");
+define("LAN_PLUGIN_BANNER_NAME", "横幅");
+define("LAN_PLUGIN_BANNER_DESCRIPTION", "添加广告横幅到您的 e107 网站");

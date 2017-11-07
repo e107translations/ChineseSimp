@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 20:03:08
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("LAN_CRON_M_02", "刷新");
 define("LAN_CRON_2", "功能");
@@ -37,7 +43,6 @@ define("LAN_CRON_20_3", "建议使系统保持最新。");
 define("LAN_CRON_20_4", "更新此 Git 存储库");
 define("LAN_CRON_20_5", "从 github 很最新的文件更新此 e107 安装。");
 define("LAN_CRON_20_6", "建议仅为开发者。");
-define("LAN_CRON_20_7", "警告 ！");
 define("LAN_CRON_20_8", "可能导致网站不稳定 ！");
 define("LAN_CRON_30", "每一分钟");
 define("LAN_CRON_31", "每隔一分钟");
@@ -57,5 +62,14 @@ define("LAN_CRON_51", "小时 ︰");
 define("LAN_CRON_52", "日期 ︰");
 define("LAN_CRON_53", "个月 ︰");
 define("LAN_CRON_54", "Weekday(s):");
+define("LAN_CRON_60", "去 cPanel");
+define("LAN_CRON_61", "生成新的 cron 密码");
+define("LAN_CRON_62", "正在执行配置函数 [b] [x] [/b]");
+define("LAN_CRON_63", "未找到配置函数 [b] [x] [/b]。");
+define("LAN_CRON_64", "管理员可以使用 e107 计划任务自动执行任务。[br]
+在 '管理' 选项卡中, 您可以编辑、删除和运行任务。[br]
+编辑任务时, 可以设置希望任务运行的一周中的分钟、小时、天、月或日。使用 * 为每个期间运行。使用活动属性启用任务。[br]
+注: 建议您不要删除标准作业。[br]");
 define("LAN_CRON_BACKUP", "备份");
 define("LAN_CRON_LOGGING", "日志记录");
+define("LAN_CRON_RUNNING", "运行");

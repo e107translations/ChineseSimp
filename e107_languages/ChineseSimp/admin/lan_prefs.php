@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/07 06:30:35
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("PRFLAN_1", "站点信息");
 define("PRFLAN_2", "站点名称");
@@ -187,8 +193,6 @@ define("PRFLAN_208", "用户类，可以通过电子邮件链接到网站上的�
 define("PRFLAN_209", "其他功能");
 define("PRFLAN_210", "评论/过帐");
 define("PRFLAN_211", "不能使电子邮件地址可选，如果所需的验证或登录");
-define("PRFLAN_212", "字段值为 — — — — 太高-改为 — — 价值 — —");
-define("PRFLAN_213", "字段值为 — — — — 太低-改为 — — 价值 — —");
 define("PRFLAN_214", "网站徽标");
 define("PRFLAN_215", "类，可以张贴 < 脚本 > 和类似的标记");
 define("PRFLAN_216", "（需要 HTML 发布权利以及）");
@@ -213,7 +217,6 @@ define("PRFLAN_234", "评论将需要手动批准由 admin 之前正在对其他
 define("PRFLAN_235", "评论排序 ︰");
 define("PRFLAN_236", "最新评论第一次");
 define("PRFLAN_237", "最新评论最后");
-define("PRFLAN_238", "文件上传");
 define("PRFLAN_239", "最大上载大小征收 php.ini 设置是 ︰");
 define("PRFLAN_240", "文件类型上传限制");
 define("PRFLAN_241", "* * 出于安全考虑这些值可能仅可手动更改在以下文件中 ︰");
@@ -230,7 +233,6 @@ define("PRFLAN_251", "使用仅在启用脚本合并时");
 define("PRFLAN_252", "禁用合并的脚本服务器高速缓存 ︰");
 define("PRFLAN_253", "禁用合并的脚本的浏览器缓存 ︰");
 define("PRFLAN_254", "电子邮件和联系人信息");
-define("PRFLAN_255", "文件上传");
 define("PRFLAN_256", "高级的选项");
 define("PRFLAN_257", "Javascript 框架");
 define("PRFLAN_258", "联系人窗体可见性");
@@ -242,3 +244,17 @@ define("PRFLAN_263", "应该是唯一对此网站");
 define("PRFLAN_264", "Frontpage 是登录页面 (login.php)");
 define("PRFLAN_265", "Frontpage 是飞溅页 (membersonly.php)");
 define("PRFLAN_266", "当注销，哪一页应用户被定向到？");
+define("PRFLAN_267", "电子邮件方法");
+define("PRFLAN_268", "前端内嵌编辑");
+define("PRFLAN_269", "管理员与此 userclass (和适当的管理员权限) 将能够编辑 html 直接通过前端区域。");
+define("PRFLAN_270", "联系人窗体筛选");
+define("PRFLAN_271", "忽略包含这些单词或短语的表单提交。每行一个。");
+define("PRFLAN_272", "会话生存期");
+define("PRFLAN_273", "以秒为单位的生存期。0 = 直到浏览器关闭。");
+define("PRFLAN_274", "联系表单将只对此 userclass 组可见。");
+define("PRFLAN_275", "使用 https (SSL) 查看此页以修改此选项");
+define("PRFLAN_276", "PHP 默认值 (首选)");
+define("PRFLAN_212", "[x] 的值太 high-changed 到 [y]");
+define("PRFLAN_213", "[x] 的值太 low-changed 到 [y]");
+define("PRFLAN_238", "上传文件");
+define("PRFLAN_255", "上传文件");

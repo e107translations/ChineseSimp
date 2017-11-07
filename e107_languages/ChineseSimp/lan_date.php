@@ -23,3 +23,4 @@ define("LANDT_08s", "分钟");
 define("LANDT_09", "美国证券交易委员会");
 define("LANDT_09s", "秒");
 define("LANDT_AGO", "前");
+define("LANDT_10", "刚才");

@@ -8,3 +8,7 @@ define("LAN_PLUGIN_RSS_NAME", "RSS");
 define("LAN_PLUGIN_RSS_DESCRIPTION", "您的站点的 RSS 源。");
 define("LAN_PLUGIN_RSS_SUBSCRIBE", "订阅");
 define("LAN_PLUGIN_RSS_SUBSCRIBE_TO", "[X] 订阅");
+define("LAN_PLUGIN_RSS_NAME", "rss");
+define("LAN_PLUGIN_RSS_DESCRIPTION", "rss 源从您的网站。");
+define("LAN_PLUGIN_RSS_SUBSCRIBE", "订阅");
+define("LAN_PLUGIN_RSS_SUBSCRIBE_TO", "订阅 [x]");

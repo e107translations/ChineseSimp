@@ -8,3 +8,8 @@ define("TD_MENU_L1", "其他新闻");
 define("TD_MENU_L2", "其他新闻");
 define("LAN_NEWSCAT_MENU_TITLE", "新闻类别");
 define("LAN_NEWSLATEST_MENU_TITLE", "最新消息");
+define("TD_MENU_L1", "其他新闻");
+define("TD_MENU_L2", "其他新闻");
+define("LAN_NEWSCAT_MENU_TITLE", "新闻分类");
+define("LAN_NEWSLATEST_MENU_TITLE", "最新消息");
+define("LAN_NEWSARCHIVE_MENU_TITLE", "新闻档案");

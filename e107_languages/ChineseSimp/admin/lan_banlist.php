@@ -1,13 +1,17 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 20:24:08
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 define("BANLAN_2", "在列表中没有禁令。");
 define("BANLAN_3", "现有的禁令");
 define("BANLAN_5", "输入 IP、 电子邮件地址或主机");
-define("BANLAN_7", "原因");
 define("BANLAN_8", "禁止地址");
 define("BANLAN_9", "禁止用户从网站通过电子邮件、 IP 或主机地址");
 define("BANLAN_10", "IP / 电子邮件 / 理由");
@@ -46,10 +50,10 @@ define("BANLAN_44", "使用到期的日期时间，可从导入");
 define("BANLAN_45", "导入");
 define("BANLAN_46", "导入文件 ︰");
 define("BANLAN_47", "文件上传错误");
-define("BANLAN_48", "删除 — — NUM — — 过期的禁止列表条目");
+define("BANLAN_48", "删除 [y] 过期的禁止列表条目");
 define("BANLAN_49", "CSV 导入 ︰ 不平衡报价在行");
 define("BANLAN_50", "CSV 导入 ︰ 写在行封禁名单记录时出错");
-define("BANLAN_51", "CSV 导入 ︰ 成功，— — 民 — — 从文件导入的行");
+define("BANLAN_51", "CSV 导入 ︰ 成功，[y] 从文件导入的行");
 define("BANLAN_52", "白名单");
 define("BANLAN_53", "添加到白名单");
 define("BANLAN_54", "白名单中没有条目");
@@ -63,7 +67,7 @@ define("BANLAN_61", "白名单中的现有条目");
 define("BANLAN_63", "使用反向 DNS 允许主机禁止");
 define("BANLAN_64", "反向 DNS 访问添加禁止时");
 define("BANLAN_65", "打开此选项将允许您禁止用户通过主机名，然后是 IP 或电子邮件地址。<br>注意 ︰ 这可能会影响商铺时代一些在主机上，或者如果服务器没有响应");
-define("BANLAN_66", "禁令时，此选项将禁止的地址的域添加到原因");
+define("BANLAN_66", "禁令时，此选项将禁止的地址的域添加到原�");
 define("BANLAN_67", "设置最大访问率");
 define("BANLAN_68", "这将确定网站访问在 5 分钟的时间内的最大数目");
 define("BANLAN_69", "成员");
@@ -84,13 +88,12 @@ define("BANLAN_83", "日期/时间");
 define("BANLAN_84", "IP 地址");
 define("BANLAN_85", "附加信息");
 define("BANLAN_86", "禁止与相关的事件");
-define("BANLAN_87", "总 — — NUM — — 列表中的条目");
+define("BANLAN_87", "总 [y] 列表中的条目");
 define("BANLAN_88", "空禁令操作日志");
 define("BANLAN_89", "已删除的日志文件");
 define("BANLAN_90", "删除日志文件时出错");
 define("BANLAN_91", "禁止日志的日期/时间格式");
 define("BANLAN_92", "请参阅在 php.net strftime 功能页");
-define("BANLAN_93", "");
 define("BANLAN_100", "未知");
 define("BANLAN_101", "手动");
 define("BANLAN_102", "洪水");
@@ -106,10 +109,7 @@ define("BANLAN_111", "通过管理员进入");
 define("BANLAN_112", "尝试更新站点太快");
 define("BANLAN_113", "试图访问的站点过于频繁地从相同的地址");
 define("BANLAN_114", "多个失败的登录尝试来自同一个用户");
-define("BANLAN_115", "从外部列表添加");
 define("BANLAN_116", "由于用户禁止禁止的 IP 地址");
-define("BANLAN_117", "业余的原因");
-define("BANLAN_118", "业余的原因");
 define("BANLAN_119", "指示导入错误-以前进口禁令");
 define("BANLAN_120", "白名单条目");
 define("BANLAN_121", "黑名单条目");
@@ -117,3 +117,9 @@ define("BANLAN_122", "黑名单");
 define("BANLAN_123", "添加到黑名单中");
 define("BANLAN_124", "到期");
 define("BANLAN_125", "使用我的 IP");
+define("BANLAN_126", "IP/电子邮件");
+define("BANLAN_7", "原因");
+define("BANLAN_93", "");
+define("BANLAN_115", "从外部列表添加");
+define("BANLAN_117", "备件原因");
+define("BANLAN_118", "备件原因");

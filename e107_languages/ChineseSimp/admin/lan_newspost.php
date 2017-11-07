@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 20:32:34
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("NWSLAN_4", "新闻-现有消息");
 define("NWSLAN_6", "类别");
@@ -45,7 +51,6 @@ define("NWSLAN_57", "项目");
 define("NWSLAN_58", "发布");
 define("NWSLAN_59", "没有提交的新闻");
 define("NWSLAN_63", "搜索 newsposts");
-define("NWSLAN_66", "上传");
 define("NWSLAN_67", "图像/视频");
 define("NWSLAN_69", "上传的图像或文件用于新闻项目");
 define("NWSLAN_72", "只显示某些日期之间新闻项目");
@@ -93,11 +98,11 @@ define("LAN_NEWS_49", "渲染类型");
 define("LAN_NEWS_51", "可以通过修改新闻项目作者 ︰");
 define("LAN_NEWS_52", "一般信息");
 define("LAN_NEWS_53", "高级的选项");
-define("LAN_NEWS_54", "保持在编辑模式");
+// define("LAN_NEWS_54", "保持在编辑模式");
 define("LAN_NEWS_55", "维护");
-define("LAN_NEWS_56", "重新计算评论计数");
+// define("LAN_NEWS_56", "重新计算评论计数");
 define("LAN_NEWS_57", "继续");
-define("LAN_NEWS_58", "更新完成 — — 更新 — — 更新，评论计数 — — 删除 — — 不允许删除的评论");
+// define("LAN_NEWS_58", "更新完成 — — 更新 — — 更新，评论计数 — — 删除 — — 不允许删除的评论");
 define("LAN_NEWS_59", "新闻维护");
 define("LAN_NEWS_60", "评论共");
 define("LAN_NEWS_61", "也不允许删除批注");
@@ -105,7 +110,6 @@ define("LAN_NEWS_62", "访问数据库或找不到新闻项目时出错");
 define("LAN_NEWS_63", "创建类别");
 define("LAN_NEWS_64", "老提交");
 define("LAN_NEWS_65", "请选择此类别的唯一海基会 URL 字符串");
-define("LAN_NEWS_66", "");
 define("LAN_NEWS_67", "关闭");
 define("LAN_NEWS_68", "提交的项目");
 define("LAN_NEWS_69", "默认区域");
@@ -124,3 +128,21 @@ define("LAN_NEWS_92", "如。news.php?all 或 news.php?cat.1 或 news.php?tag=xx
 define("LAN_NEWS_93", "列表视图内容");
 define("LAN_NEWS_94", "项目分配给这些模板将显示在列表中。");
 define("LAN_NEWS_95", "另一个新闻项目使用海基会 URL: [x]");
+define("LAN_NEWS_96", "批准");
+define("LAN_NEWS_97", "新闻网格菜单");
+define("LAN_NEWS_98", "Ping 服务");
+define("LAN_NEWS_99", "只接受大于");
+define("LAN_NEWS_100", "任意大小");
+define("LAN_NEWS_101", "提交新闻");
+define("LAN_NEWS_102", "在新选项卡中打开");
+define("LAN_NEWS_103", "电子邮件通知");
+define("LAN_NEWS_104", "提交此表单时触发电子邮件通知。");
+define("LAN_NEWS_105", "已触发电子邮件通知!");
+define("LAN_NEWS_106", "新闻项目可见性必须包括 '每个人' 的电子邮件通知工作。");
+define("LAN_NEWS_107", "检查 Ping 状态");
+define("LAN_NEWS_108", "海基会的 URL 与您的新闻项目的标题不同。");
+define("LAN_NEWS_109", "提交此表单时触发电子邮件通知。");
+define("LAN_NEWS_110", "新闻缓存超时");
+define("LAN_NEWS_111", "时间在几分钟内。仅在启用系统缓存时应用。");
+define("NWSLAN_66", "上载");
+

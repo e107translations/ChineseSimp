@@ -15,10 +15,10 @@ define("LAN_CHECK_18", "语言中的标准格式的文件不是可供此插件/�
 define("LAN_CHECK_19", "找到非 UTF 8 字符 ！");
 define("LAN_CHECK_20", "生成的语言包");
 define("LAN_CHECK_21", "再次验证");
-define("LAN_CHECK_22", "主题");
+// define("LAN_CHECK_22", "主题");
 define("LAN_CHECK_23", "发现错误");
-define("LAN_CHECK_24", "摘要");
-define("LAN_CHECK_25", "主题");
+// define("LAN_CHECK_24", "摘要");
+// define("LAN_CHECK_25", "主题");
 define("LAN_CHECK_PAGE_TITLE", "语言");
 define("LAN_CHECK_27", "语言包发现的错误数");
 define("LANG_LAN_23", "创建语言包 (zip)");
@@ -34,3 +34,10 @@ define("LANG_LAN_117", "你应该在贡献你的语言包之前更正剩余的�
 define("LANG_LAN_119", "请检查 CORE_LC 和 CORE_LC2 有 [x] 中的值，然后重试。");
 define("LANG_LAN_120", "请确保您在 e107_config.php 中使用的默认文件夹名称 (例如。 e107_languages，e107_plugins / 等)，然后重试。");
 define("LANG_LAN_AGR", "注 ︰ 您同意通过使用这些工具与 e107 社区分享您的语言 pack(s)。");
+
+define("LAN_CHECK_26", "前面");
+define("LAN_CHECK_28", "相同");
+define("LAN_CHECK_29", "相同的字符串 (仅限警告)");
+define("LAN_CHECK_30", "缺少 bbcodes");
+define("LAN_CHECK_31", "缺少 [和/或] 字符");
+define("LAN_CHECK_32", "缺少 HTML 标记");

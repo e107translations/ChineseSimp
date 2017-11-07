@@ -6,3 +6,5 @@
 
 define("LAN_PLUGIN_DOWNLOAD_NAME", "下载");
 define("LAN_PLUGIN_DOWNLOAD_DIZ", "这个插件是一个全功能的文件下载系统");
+define("LAN_PLUGIN_DOWNLOAD_NAME", "下载");
+define("LAN_PLUGIN_DOWNLOAD_DIZ", "这个插件是一个功能齐全的文件下载系统");

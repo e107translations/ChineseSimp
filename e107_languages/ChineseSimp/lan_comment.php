@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 20:19:17
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("COMLAN_0", "[通过管理员阻止]");
 define("COMLAN_1", "解除阻止");
@@ -20,7 +26,6 @@ define("COMLAN_16", "用户名 ︰");
 define("COMLAN_100", "新闻");
 define("COMLAN_101", "投票");
 define("COMLAN_102", "答复 ︰");
-define("COMLAN_103", "文章");
 define("COMLAN_104", "审查");
 define("COMLAN_105", "内容");
 define("COMLAN_106", "下载");
@@ -69,3 +74,4 @@ define("COMLAN_TYPE_8", "用户配置文件");
 define("COMLAN_TYPE_PAGE", "内容");
 define("COMLAN_500", "请 [登录] 留下评论。");
 define("COMLAN_501", "如果你尚未登记，您可以 [点击这里注册]。");
+define("COMLAN_103", "条");

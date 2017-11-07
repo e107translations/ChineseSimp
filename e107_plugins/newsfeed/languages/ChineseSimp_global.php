@@ -6,3 +6,5 @@
 
 define("LAN_PLUGIN_NEWSFEEDS_NAME", "新闻");
 define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "这个插件将检索从其他网站的 rss 源，并显示他们根据你的喜好。");
+define("LAN_PLUGIN_NEWSFEEDS_NAME", "新闻");
+define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "此插件将检索来自其他网站的 rss 提要, 并根据您的喜好显示它们。");

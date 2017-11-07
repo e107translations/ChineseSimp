@@ -8,3 +8,7 @@ define("LAN_PLUGIN_LOG_NAME", "网站统计");
 define("LAN_PLUGIN_LOG_DESCRIPTION", "这个插件将登录所有访问您的站点，并建立详细的统计屏幕基于所收集的资料。");
 define("LAN_PLUGIN_LOG_CONFIGURE", "配置统计记录");
 define("LAN_PLUGIN_LOG_LINK", "访问");
+define("LAN_PLUGIN_LOG_NAME", "网站统计");
+define("LAN_PLUGIN_LOG_DESCRIPTION", "此插件将记录所有访问您的网站, 并建立详细的统计数据的基础上收集的信息。");
+define("LAN_PLUGIN_LOG_CONFIGURE", "配置统计记录");
+define("LAN_PLUGIN_LOG_LINK", "访问");

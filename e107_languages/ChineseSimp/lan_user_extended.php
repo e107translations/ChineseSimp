@@ -46,3 +46,4 @@ define("UE_LAN_MALE", "男性");
 define("UE_LAN_FEMALE", "女性");
 define("UE_LAN_COMMENT", "评论");
 define("UE_LAN_COMMENT_DESC", "批注框");
+define("UE_LAN_13", "国家");

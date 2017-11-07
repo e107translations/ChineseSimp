@@ -1,13 +1,19 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/07 01:47:58
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+define("LAN_EC_PM_04", "PM 处理程序");
+define("LAN_EC_PM_05", "处理大发送的 PMs");
+define("LAN_EC_PM_06", "启动批量 PM 处理 [y] 收件人");
 define("LAN_EC_PM_01", "");
 define("LAN_EC_PM_02", "");
 define("LAN_EC_PM_03", "");
-define("LAN_EC_PM_04", "下午处理程序");
-define("LAN_EC_PM_05", "大的进程发送的经前综合症");
-define("LAN_EC_PM_06", "— — 民 — — 收件人的开始批量 PM 加工");
 define("LAN_EC_PM_07", "");

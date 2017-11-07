@@ -5,3 +5,4 @@
 // https://github.com/e107inc/multilan
 
 define("GSLAN_Name", "网站地图");
+define("GSLAN_Name", "地图");

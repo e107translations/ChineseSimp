@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 22:06:15
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("RL_LAN_002", "滚动日志");
 define("RL_LAN_005", "配置查看系统日志");
@@ -36,7 +42,6 @@ define("RL_LAN_050", "参数错误-不删除任何内容");
 define("RL_LAN_052", "管理登录");
 define("RL_LAN_053", "用户审核日志");
 define("RL_LAN_054", "没有删除，或数据库错误");
-define("RL_LAN_057", "-超过 — — 旧的事件 — — （— — NUM — — 条目） 删除");
 define("RL_LAN_058", "优先级的筛选器 ︰");
 define("RL_LAN_059", "调用方筛选器 ︰");
 define("RL_LAN_060", "IP 地址筛选器 ︰");
@@ -61,13 +66,13 @@ define("RL_LAN_081", "邮件反弹");
 define("RL_LAN_082", "用户禁止");
 define("RL_LAN_083", "邮件反弹重置");
 define("RL_LAN_084", "临时帐户");
+define("RL_LAN_087", "详细");
 define("RL_LAN_090", "下载 ID");
 define("RL_LAN_091", "详细的计时");
 define("RL_LAN_092", "时间段");
 define("RL_LAN_093", "（分钟）");
 define("RL_LAN_094", "详细的时序分析");
 define("RL_LAN_096", "Diff (s)");
-define("RL_LAN_098", "来源");
 define("RL_LAN_100", "CID");
 define("RL_LAN_101", "PID");
 define("RL_LAN_103", "主题");
@@ -91,3 +96,8 @@ define("RL_LAN_123", "用户审计线索类");
 define("RL_LAN_124", "用户审计跟踪操作");
 define("RL_LAN_125", "系统日志维护");
 define("RL_LAN_126", "共有 [x] 条目匹配搜索条件");
+define("RL_LAN_132", "信息");
+define("RL_LAN_133", "通知");
+define("RL_LAN_134", "警告");
+define("RL_LAN_135", "致命");
+define("RL_LAN_057", "-删除的事件早于 [x] ([y] 项)");

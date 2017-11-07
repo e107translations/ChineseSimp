@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 18:25:28
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 define("USRLAN_1", "保存的选项。");
 define("USRLAN_3", "现在列出管理员-设置权限，请转到");
 define("USRLAN_4", "管理员页");
@@ -36,7 +41,7 @@ define("USRLAN_54", "单击此处可删除灭活的所有用户");
 define("USRLAN_55", "修剪");
 define("USRLAN_56", "删除");
 define("USRLAN_57", "正在删除未激活的成员...");
-define("USRLAN_58", "在 php.ini 文件中禁用了文件上传");
+define("USRLAN_58", "在 php.ini 文件中禁用了文件上�");
 define("USRLAN_59", "快速添加用户");
 define("USRLAN_60", "添加用户");
 define("USRLAN_61", "显示名称");
@@ -88,7 +93,7 @@ define("USRLAN_135", "发现用户的信息; 在没有 IP 地址不禁止的 IP"
 define("USRLAN_136", "多个用户找到 IP 地址的 {IP};不禁止的 IP。");
 define("USRLAN_137", "用户 IP 地址的 {IP} 禁止。");
 define("USRLAN_138", "未经验证的用户");
-define("USRLAN_139", "您的帐户已 activated.\n\nYou 可以访问 {网址} 和登录到使用您提供的登录信息的网站。");
+define("USRLAN_139", "您的帐户已 activated.\n\nYou 可以访问 {SITEURL} 和登录到使用您提供的登录信息的网站。");
 define("USRLAN_140", "激活电子邮件重新发送到");
 define("USRLAN_141", "未能重新发送激活电子邮件到");
 define("USRLAN_142", "与下面的激活链接");
@@ -104,40 +109,33 @@ define("USRLAN_151", "清晰的反弹，需要激活");
 define("USRLAN_152", "清晰的反弹和激活");
 define("USRLAN_153", "删除非反弹电子邮件");
 define("USRLAN_154", "清晰的电子邮件检查");
-define("USRLAN_155", "总 {总} 电子邮件发现。{DELCOUNT} 删除通过选项。<br>{DELUSER} 用户标记为 '跳' （跳出 {发现} 电子邮件）");
 define("USRLAN_156", "电子邮件地址已在使用");
-define("USRLAN_160", "类型-类型 — — 修剪的总数 — — 计数 — — 用户");
-define("USRLAN_161", "用户 ID — — UID — — 的名字 — — — — 禁止");
-define("USRLAN_162", "用户 ID — — UID — — 的名字 — — — — 解禁");
-define("USRLAN_163", "用户 ID — — UID — — 删除");
-define("USRLAN_164", "用户 ID — — UID — — 的名字 — — — — （— — 电子邮件 — —） 使管理员");
-define("USRLAN_165", "用户 ID — — UID — — — — 的名字 — — 管理地位被撤销");
-define("USRLAN_166", "用户 ID — — UID — — 核准的名称 — — 名称 — —");
-define("USRLAN_167", "验证电子邮件 ID — — ID — — 在 — — 电子邮件 — — — — 名称 — — 怨恨");
-define("USRLAN_168", "重新发送 — — 计数 — — 验证电子邮件");
-define("USRLAN_169", "总计 — — 计数 — — 反弹已删除的电子邮件");
+define("USRLAN_161", "用户 ID [x]  的名字 — — — — 禁止");
+define("USRLAN_162", "用户 ID [x] 的名字 — — — — 解禁");
+define("USRLAN_164", "用户 ID [x] 名称 [y] ([z]) 进行管理");
+define("USRLAN_165", "用户 ID [x] 名称 [y] 管理状态被吊销");
+define("USRLAN_166", "用户 ID [x] 名称 [y] 已批准");
+define("USRLAN_167", "验证电子邮件 ID [x] 在 [z] 上对 [y] 的怨恨");
+define("USRLAN_169", "[x] 已删除的邮件总数");
 define("USRLAN_170", "随机用户名称");
 define("USRLAN_171", "随机密码");
 define("USRLAN_172", "用户帐户已创建与以下内容 ︰");
-define("USRLAN_175", "");
 define("USRLAN_179", "用户被禁止 ︰");
 define("USRLAN_180", "IP 地址的 {IP} 同时出现在白名单;不禁止的 IP。");
 define("USRLAN_181", "请选择用户状态和向用户发送确认电子邮件的选项");
 define("USRLAN_182", "登录名中的字符无效");
 define("USRLAN_183", "该登录名已在使用中");
 define("USRLAN_184", "登录名称范围以外的长度");
-define("USRLAN_185", "用户帐户已经为你在 {网址} 与以下登录名 ︰<br><br><b>登录名称 ︰</b>{LOGINNAME}<br><b>密码 ︰</b>{密码}<br><b>激活链接 ︰</b>{ACTIVATION_LINK}<br><br>");
+define("USRLAN_185", "用户帐户已经为你在 {网址} 与以下登录名 ︰<br><br>[b]登录名称 ︰[/b]{LOGINNAME}<br>[b]密码 ︰[/b]{密码}<br>[b]激活链接 ︰[/b]{ACTIVATION_LINK}<br><br>");
 define("USRLAN_186", "请尽快转到站点并登录，然后使用 \'Settings\ 更改密码'选项。<br><br>您还可以同时更改其他设置。<br><br>请注意，是否你失去了它，就无法恢复您的密码。");
 define("USRLAN_187", "对网站的访问 ︰");
 define("USRLAN_188", "成功发送的电子邮件");
 define("USRLAN_189", "发送电子邮件时出错");
 define("USRLAN_190", "新用户试用期间 （天）");
 define("USRLAN_191", "管理员可以限制在此期间在某些领域");
-define("USRLAN_192", "");
 define("USRLAN_193", "什么改变了-不保存");
 define("USRLAN_194", "可以通过修改签名");
-define("USRLAN_195", "");
-define("USRLAN_197", "来源");
+define("USRLAN_195", "最后一篇");
 define("USRLAN_198", "字段名称");
 define("USRLAN_199", "操作");
 define("USRLAN_200", "价值");
@@ -159,6 +157,13 @@ define("LAN_MAINADMIN", "主要的管理");
 define("LAN_NOTVERIFIED", "未验证");
 define("LAN_BANNED", "禁止");
 define("LAN_BOUNCED", "反弹");
+define("LAN_UI_1_HOUR", "1小时");
+define("LAN_UI_3_HOURS", "3小时");
+define("LAN_UI_6_HOURS", "6小时");
+define("LAN_UI_12_HOURS", "12小时");
+define("LAN_UI_24_HOURS", "24小时");
+define("LAN_UI_48_HOURS", "48小时");
+define("LAN_UI_3_DAYS", "3天");
 define("USRLAN_220", "所有 Userclasses");
 define("USRLAN_221", "编辑管理员烫发");
 define("USRLAN_222", "您将要删除 [x] ([y]) 与 ID #[z]。是否确定？");
@@ -183,24 +188,28 @@ define("USRLAN_240", "激活，不通知");
 define("USRLAN_241", "激活，通知 （密码）");
 define("USRLAN_242", "需要激活，通知 （密码和激活链接）");
 define("USRLAN_243", "设置的权限");
-define("USRLAN_244", "违反安全 （没有足够的权限）-管理员 — — ADMIN_UID — — — — ADMIN_NAME — — (— — ADMIN_EMAIL — —） 试图删除管理员状态从 — — UID — — — — 名称 — — (— — 电子邮件 — —）");
-define("USRLAN_245", "违反安全 （没有足够的权限）-管理员 — — ADMIN_UID — — — — ADMIN_NAME — — (— — ADMIN_EMAIL — —） 试图使 — — UID — — — — 名称 — — (— — 电子邮件 — —） 系统管理员");
+define("USRLAN_244", "安全违规 (权限不足)-管理员 [x] ([y], [z]) 试图从 [u] ([v], [w]) 中删除管理状态");
+define("USRLAN_245", "安全违规 (权限不足)-管理员 [x] ([y], [z]) 试图使 [u] ([v], [w]) 系统管理员");
 define("USRLAN_246", "我们");
 define("USRLAN_247", "我们");
 define("USRLAN_248", "我们");
 define("USRLAN_249", "我们");
 define("USRLAN_250", "我们");
+define("USRLAN_251", "留空不变");
+define("USRLAN_252", "将帐户激活电子邮件重新发送给未用户。");
+define("USRLAN_253", "早于");
+define("USRLAN_254", "重置所有密码");
+define("USRLAN_255", "通知用户");
+define("USRLAN_256", "亲爱的");
 define("UCSLAN_1", "发送通知电子邮件到");
 define("UCSLAN_2", "更新的权限");
-define("UCSLAN_3", "亲爱的");
 define("UCSLAN_4", "在已更新您的权限");
 define("UCSLAN_5", "您现在可以访问以下领域");
 define("UCSLAN_6", "用户的设置的类");
 define("UCSLAN_7", "设置的类");
-define("UCSLAN_8", "通知用户");
 define("UCSLAN_9", "更新的类。");
 define("UCSLAN_10", "问候，");
-define("UCSLAN_11", "类的成员用户 ID — — UID — — 改 — — 类 — —");
+define("UCSLAN_11", "用户 ID [x] 的类成员身份更改为 [y]");
 define("UCSLAN_12", "只有会员特权");
 define("USFLAN_1", "无法找到海报的 IP 地址-没有信息是可用的。");
 define("USFLAN_3", "从 IP 地址投递的邮件");
@@ -211,3 +220,5 @@ define("USFLAN_7", "用户信息");
 define("USRLAN_AS_1", "[X] 作为登录");
 define("USRLAN_AS_2", "[X] 帐户从注销");
 define("USRLAN_AS_3", "你已经作为另一个用户帐户登录。请先注销。");
+define("USRLAN_192", "");
+define("USRLAN_155", "找到的电子邮件总数。[x] 通过选项删除。br][y] 用户标记为 '弹跳' (从 [z] 电子邮件中)");

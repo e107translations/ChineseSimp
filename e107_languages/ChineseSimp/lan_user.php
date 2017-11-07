@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 20:23:21
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 define("LAN_USER_01", "显示名称");
 define("LAN_USER_02", "登录名");
 define("LAN_USER_03", "真实姓名");
@@ -64,9 +69,9 @@ define("LAN_USER_71", "签名 ︰");
 define("LAN_USER_72", "阿凡达 》:");
 define("LAN_USER_73", "选择的内容-邮件列表");
 define("LAN_USER_74", "自定义标题");
-define("LAN_USER_75", "你 — — 一些东西 — — 是需要");
+define("LAN_USER_75", "你 [x] 是需要");
 define("LAN_USER_76", "订阅");
-define("LAN_USER_77", "您的密码必须至少 — — 计数 — — 个字符长。");
+define("LAN_USER_77", "您的密码必须至少[x] 个字符长。");
 define("LAN_USER_78", "分钟。");
 define("LAN_USER_79", "字符数。");
 define("LAN_USER_80", "在网站上显示的名称");
@@ -75,4 +80,17 @@ define("LAN_USER_82", "对所使用的名称登录到网站");
 define("LAN_USER_83", "隐藏的电子邮件地址吗？:");
 define("LAN_USER_84", "这将防止您的电子邮件地址显示在网站上");
 define("LAN_USER_85", "如果您想要更改您的用户名称，您必须要求网站管理员");
-define("LAN_USER_86", "最大头像大小是 — — 宽度 — — x — — 高度 — — 像素");
+define("LAN_USER_86", "最大头像大小是 [x] x [y] 像");
+define("LAN_USER_87", "登录以对此用户进行率!");
+define("LAN_XUP_ERRM_01", "注册失败!此功能已禁用。");
+define("LAN_XUP_ERRM_02", "注册失败!错误的提供程序。");
+define("LAN_XUP_ERRM_03", "登录失败!错误的提供程序。");
+define("LAN_XUP_ERRM_04", "注册失败!用户已登录。");
+define("LAN_XUP_ERRM_05", "注册失败!用户已存在。请改用 '登录'。");
+define("LAN_XUP_ERRM_06", "注册失败!无法访问用户电子邮件-注册没有电子邮件是不可能的。");
+define("LAN_XUP_ERRM_07", "社会登录测试仪");
+define("LAN_XUP_ERRM_08", "请在测试新用户登录/注册程序之前注销 e107。");
+define("LAN_XUP_ERRM_09", "仅使用 [x] 测试登录");
+define("LAN_XUP_ERRM_10", "测试注册/登录 [x]");
+define("LAN_XUP_ERRM_11", "登录:");
+define("LAN_XUP_ERRM_12", "测试注销");

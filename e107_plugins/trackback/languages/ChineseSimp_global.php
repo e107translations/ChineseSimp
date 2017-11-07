@@ -6,3 +6,5 @@
 
 define("LAN_PLUGIN_TRACKBACK_NAME", "引用通告");
 define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "这个插件使您能够在您的新闻文章中使用引用通告。");
+define("LAN_PLUGIN_TRACKBACK_NAME", "引用");
+define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "此插件使您可以在新闻文章中使用引用通告。");

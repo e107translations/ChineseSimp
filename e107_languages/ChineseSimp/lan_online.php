@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 20:20:03
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("ONLINE_EL1", "嘉宾 ︰");
 define("ONLINE_EL2", "成员 ︰");
@@ -34,7 +40,6 @@ define("LOGIN", "在日志记录");
 define("SEARCH", "搜索");
 define("STATS", "网站统计");
 define("SUBMITNEWS", "提交新闻");
-define("UPLOAD", "上传");
 define("USERPAGE", "用户配置文件");
 define("USERSETTINGS", "用户设置");
 define("ONLINE", "在线用户");
@@ -49,7 +54,10 @@ define("CALENDAR", "事件日历");
 define("FAQ", "常见问题");
 define("PM", "私人消息");
 define("SURVEY", "调查");
-define("ARTICLE", "文章");
 define("CONTENT", "内容页");
 define("REVIEW", "审查");
 define("OTHER", "其他页 ︰");
+define("UPLOAD", "上载");
+define("ARTICLE", "条");
+define("UPLOAD", "上载");
+define("ARTICLE", "条");

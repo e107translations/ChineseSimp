@@ -50,3 +50,4 @@ define("LAN_ERROR_43", "网站暂时不可用");
 define("LAN_ERROR_44", "网站徽标");
 define("LAN_ERROR_45", "你现在可以做什么？");
 define("LAN_ERROR_46", "请检查日志的详细信息。");
+define("LAN_ERROR_TITLE", "哎呀!");

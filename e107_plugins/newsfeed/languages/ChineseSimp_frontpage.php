@@ -6,3 +6,5 @@
 
 define("NWSF_FP_1", "新闻提要");
 define("NWSF_FP_2", "主页面");
+define("NWSF_FP_1", "新闻提要");
+define("NWSF_FP_2", "主页");

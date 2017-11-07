@@ -83,3 +83,6 @@ define("LAN_EURL_SYSTEM_REWRITE_DESCR", "用于页面的 Url 喜欢找不到，�
 define("LAN_EURL_CORE_INDEX", "头版");
 define("LAN_EURL_CORE_INDEX_INFO", "前台页面不能有一个别名。");
 define("LAN_EURL_REBUILD", "重建");
+define("LAN_EURL_REGULAR_EXPRESSION", "正则表达式");
+define("LAN_EURL_KEY", "关键");
+define("LAN_EURL_TABLE", "表");

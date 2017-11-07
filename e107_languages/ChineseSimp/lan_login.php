@@ -35,3 +35,7 @@ define("LAN_LOGIN_28", "电子邮件");
 define("LAN_LOGIN_29", "用户名或电子邮件");
 define("LAN_LOGIN_30", "向数据库添加新的 alt_auth 用户时出错");
 define("LAN_LOGIN_31", "您的凭据无法添加到系统");
+define("LAN_LOGIN_32", "您正在看到此消息, 因为您当前登录为主 Admin。");
+define("LAN_LOGIN_33", "[返回主页]");
+define("LAN_LOGIN_34", "当前已禁用用户注册和/或登录。");
+define("LAN_LOGIN_35", "[启用它]");

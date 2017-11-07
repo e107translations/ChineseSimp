@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 20:18:06
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("EPL_ADLAN_0", "安装");
 define("EPL_ADLAN_1", "卸载");
@@ -47,7 +53,7 @@ define("EPL_ADLAN_41", "该文件似乎并不是一个有效的.zip 或.tar 存�
 define("EPL_ADLAN_42", "发生错误，无法向联合国-存档文件");
 define("EPL_ADLAN_43", "你的插件已上载和添加卸载的插件列表中。");
 define("EPL_ADLAN_44", "自动插件上载和提取被禁用因为上传到您的插件文件夹不允许目前-如果你想要能够做到这一点，请改变你'.e_PLUGIN.'文件夹上的权限，以允许上传。");
-define("EPL_ADLAN_45", "菜单项上载并解压，来激活<a href=''.e_ADMIN.'menus.php'>你的菜单页</a>转到。");
+define("EPL_ADLAN_45", "您的菜单项已被上载并解压, 以激活转到<a href=''.e_ADMIN.'menus.php'>您的菜单页</a>。");
 define("EPL_ADLAN_46", "PCLZIP 提取错误 ︰");
 define("EPL_ADLAN_47", "PCLTAR 提取错误 ︰");
 define("EPL_ADLAN_48", "代码 ︰");
@@ -102,8 +108,7 @@ define("EPL_ADLAN_100", "单击此处安装一些");
 define("EPL_ADLAN_101", "没有插件安装-[x]。");
 define("EPL_ADLAN_102", "此向导将为你的插件管理区共建生成 plugin.xml 元文件。你在开始之前 ︰");
 define("EPL_ADLAN_103", "如在 [x] 目录中创建一个新的可写入文件夹。[b] myplugin [/b]");
-define("EPL_ADLAN_104", "如果你的插件将使用 sql 表，在此文件夹中创建一个新文件并命名为相同的目录，但 [b]_sql.php[/b] 作为 sufix 如。[] b]myplugin_sql.php[/b");
-define("EPL_ADLAN_105", "在 phpMyAdmin 中创建表并将它的 sql 转储文件粘贴到您的文件并保存。（请参见示例 [i]e107_plugins/_blank/_blank_sql.php[/i]）");
+define("EPL_ADLAN_105", "在 phpMyAdmin 中创建表并将它的 sql 转储文件粘贴到您的文件并保存。请参见示例 [b]e107_plugins/_blank/_blank_sql.php[/b]");
 define("EPL_ADLAN_106", "选择要开始你的插件文件夹。");
 define("EPL_ADLAN_107", "建立管理区和 xml 文件 ︰");
 define("EPL_ADLAN_108", "检查语言文件 ︰");
@@ -225,6 +230,40 @@ define("EPL_ADLAN_226", "插件语言文件检查");
 define("EPL_ADLAN_227", "扫描的变化");
 define("EPL_ADLAN_228", "插件文件夹扫描变化每 [x] 分钟。单击下面的按钮来立即扫描。");
 define("EPL_ADLAN_229", "刷新");
+define("EPL_ADLAN_230", "下载和安装:");
+define("EPL_ADLAN_231", "从媒体管理器中删除图标");
+define("EPL_ADLAN_232", "创建文件");
+define("TPVLAN_81", "下载.");
+define("TPVLAN_82", "下载完成!");
+define("EPL_ADLAN_233", "添加链接:");
+define("EPL_ADLAN_234", "正在删除链接:");
+define("EPL_ADLAN_235", "不可能自动下载。");
+define("EPL_ADLAN_236", "请手动下载");
+define("EPL_ADLAN_237", "下载");
+define("EPL_ADLAN_238", "安装完成!");
+define("EPL_ADLAN_239", "添加表:");
+define("EPL_ADLAN_240", "正在删除表:");
+define("EPL_ADLAN_241", "添加优先:");
+define("EPL_ADLAN_242", "删除优先:");
+define("EPL_ADLAN_243", "更新优先:");
+define("EPL_ADLAN_244", "在安装过程中只允许使用5媒体类别。");
+define("EPL_ADLAN_245", "添加媒体类别: [x]");
+define("EPL_ADLAN_246", "删除所有媒体类别: [x]");
+define("EPL_ADLAN_247", "要安装的更新");
+define("EPL_ADLAN_249", "添加扩展字段:");
+define("EPL_ADLAN_250", "正在删除扩展字段:");
+define("EPL_ADLAN_251", "左侧扩展字段:");
+define("EPL_ADLAN_252", "烫发:");
+define("EPL_ADLAN_253", "完成");
+define("LAN_RELEASED", "释放");
+define("LAN_REPAIR_PLUGIN_SETTINGS", "修复插件设置");
+define("LAN_SYNC_WITH_GIT_REPO", "与 Git 回购同步");
+define("LAN_ADDONS", "插件");
 define("LAN_UPGRADE_SUCCESSFUL", "升级成功");
 define("LAN_INSTALL_SUCCESSFUL", "安装成功");
 define("LAN_INSTALL_FAIL", "安装失败 ！");
+define("LAN_UNINSTALL_FAIL", "无法卸载!");
+define("LAN_PLUGIN_IS_USED", "[x] 插件用于:");
+define("EPL_ADLAN_254", "这将检查您的插件的语言文件的错误和常见或重复的 LAN 定义。");
+define("EPL_ADLAN_255", "覆盖文件");
+define("EPL_ADLAN_256", "跳过 [x] (已存在)");

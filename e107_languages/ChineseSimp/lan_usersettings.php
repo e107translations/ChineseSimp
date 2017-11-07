@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 22:06:51
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "用户设置");
 define("MAX_AVWIDTH", "最大头像大小 (wxh) 是");
@@ -22,7 +28,7 @@ define("LAN_USET_14", "登录名称太长。请选择另一个");
 define("LAN_USET_15", "显示名称太长。请选择另一个");
 define("LAN_USET_16", "打勾框删除现有的照片，而无需上载另一个");
 define("LAN_USET_17", "显示已使用的名称。请选择另一个");
-define("LAN_USET_18", "用户数据更改由 admin: — — ID — —、 登录名称: — — LOGNAME — —");
+define("LAN_USET_18", "用户数据更改由 admin:[x]、 登录名称:[y]");
 define("LAN_USET_20", "您还必须更改用户的密码，如果您要更改其登录名称或电子邮件地址");
 define("LAN_USET_21", "请重新输入您的密码验证的更改 ︰");
 define("LAN_USET_23", "保持现有的密码为空");

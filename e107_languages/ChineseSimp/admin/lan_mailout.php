@@ -1,10 +1,15 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("CORE_DATE_ORDER", "二氢杨梅素");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 20:29:22
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
+define("CORE_DATE_ORDER", "氢");
 define("LAN_MAILOUT_01", "从名称");
 define("LAN_MAILOUT_02", "从电子邮件");
 define("LAN_MAILOUT_03", "自");
@@ -42,9 +47,7 @@ define("LAN_MAILOUT_36", "在检查之后删除反弹邮件");
 define("LAN_MAILOUT_37", "继续");
 define("LAN_MAILOUT_38", "取消");
 define("LAN_MAILOUT_39", "通过电子邮件发送");
-define("LAN_MAILOUT_40", "您需要将<b>e107.htaccess</b>重命名为<b>.htaccess</b>中");
 define("LAN_MAILOUT_41", "之前从这个页面发送邮件。");
-define("LAN_MAILOUT_42", "警告");
 define("LAN_MAILOUT_43", "用户名");
 define("LAN_MAILOUT_44", "用户登录");
 define("LAN_MAILOUT_45", "用户的电子邮件");
@@ -86,7 +89,6 @@ define("LAN_MAILOUT_92", "SSL");
 define("LAN_MAILOUT_93", "TLS");
 define("LAN_MAILOUT_94", "（使用 SSL 的 gmail/googlemail）");
 define("LAN_MAILOUT_95", "使用参与进行批量邮寄");
-define("LAN_MAILOUT_96", "没有一个");
 define("LAN_MAILOUT_97", "梅勒结果");
 define("LAN_MAILOUT_98", "孤立的条目");
 define("LAN_MAILOUT_99", "确认重试 mailshot");
@@ -104,7 +106,7 @@ define("LAN_MAILOUT_110", "发送测试电子邮件");
 define("LAN_MAILOUT_111", "电子邮件标题 （不发送）");
 define("LAN_MAILOUT_112", "发送测试电子邮件到");
 define("LAN_MAILOUT_113", "测试电子邮件从");
-define("LAN_MAILOUT_114", "这是一个测试电子邮件，它将显示您的电子邮件设置好的工作 ！[] br[] br问候 [br] 从 e107 网站系统。");
+define("LAN_MAILOUT_114", "这是一个测试电子邮件, 看来您的电子邮件设置工作正常!br]br]e107 网站系统中的 [br]。");
 define("LAN_MAILOUT_115", "电子邮件的方法");
 define("LAN_MAILOUT_116", "如果不确定，离开作为 php");
 define("LAN_MAILOUT_117", "完成");
@@ -123,7 +125,6 @@ define("LAN_MAILOUT_129", "届满日期");
 define("LAN_MAILOUT_130", "创建日期");
 define("LAN_MAILOUT_131", "发送开始");
 define("LAN_MAILOUT_132", "发送完整");
-define("LAN_MAILOUT_133", "来源");
 define("LAN_MAILOUT_134", "优先");
 define("LAN_MAILOUT_136", "Mailout 状态");
 define("LAN_MAILOUT_137", "邮件 Ref");
@@ -155,15 +156,15 @@ define("LAN_MAILOUT_162", "很重要 ！你需要使此文件可执行");
 define("LAN_MAILOUT_163", "编辑/发送邮件");
 define("LAN_MAILOUT_164", "找不到的电子邮件信息");
 define("LAN_MAILOUT_165", "确认删除以下存储的电子邮件，包括任何收件人的记录");
-define("LAN_MAILOUT_166", "一般错误删除邮件 ref: — — ID — —");
-define("LAN_MAILOUT_167", "错误删除邮件内容 ref: — — ID — —");
-define("LAN_MAILOUT_168", "邮件内容删除 ref: — — ID — —");
-define("LAN_MAILOUT_169", "错误删除邮件收件人 ref: — — ID — —");
-define("LAN_MAILOUT_170", "删除 — — NUM — — 收件人邮件 ref: — — ID — —");
+define("LAN_MAILOUT_166", "一般错误删除邮件 ref: [x]");
+define("LAN_MAILOUT_167", "错误删除邮件内容 ref: [x]");
+define("LAN_MAILOUT_168", "邮件内容删除 ref: [x]");
+define("LAN_MAILOUT_169", "错误删除邮件收件人 ref: [x]");
+define("LAN_MAILOUT_170", "删除 [y] 收件人邮件 ref: [x]");
 define("LAN_MAILOUT_171", "确认电子邮件删除");
 define("LAN_MAILOUT_172", "邮件类型/状态");
 define("LAN_MAILOUT_173", "收件人");
-define("LAN_MAILOUT_174", "安全检查失败: — — ID — — — — 检查 — —");
+define("LAN_MAILOUT_174", "安全检查失败: [x] [y]");
 define("LAN_MAILOUT_175", "之前");
 define("LAN_MAILOUT_176", "等于");
 define("LAN_MAILOUT_177", "后");
@@ -175,28 +176,24 @@ define("LAN_MAILOUT_182", "整洁的数据库表");
 define("LAN_MAILOUT_183", "整理数据库时出错");
 define("LAN_MAILOUT_184", "数据库整理");
 define("LAN_MAILOUT_185", "添加到发送队列的电子邮件");
-define("LAN_MAILOUT_186", "一般错误把邮件 ref: — — ID — — 搁置");
-define("LAN_MAILOUT_187", "电子邮件 — — ID — — 穿上举行");
-define("LAN_MAILOUT_188", "一般错误发送邮件 ref: — — ID — —");
+define("LAN_MAILOUT_186", "一般错误把邮件 ref: [x] 搁置");
+define("LAN_MAILOUT_187", "电子邮件[x] 穿上举行");
+define("LAN_MAILOUT_188", "一般错误发送邮件 ref:[x]");
 define("LAN_MAILOUT_189", "测试地址");
 define("LAN_MAILOUT_190", "创建并发送邮件");
 define("LAN_MAILOUT_191", "保存电子邮件");
 define("LAN_MAILOUT_192", "已完成的邮寄");
 define("LAN_MAILOUT_193", "挂起邮寄");
 define("LAN_MAILOUT_194", "举行的邮寄");
-define("LAN_MAILOUT_195", "");
-define("LAN_MAILOUT_196", "");
 define("LAN_MAILOUT_200", "未指定任何主题");
 define("LAN_MAILOUT_201", "电子邮件没有有意义的数据");
 define("LAN_MAILOUT_202", "没有电子邮件正文中的文本");
 define("LAN_MAILOUT_203", "没有指定的发件人名称");
 define("LAN_MAILOUT_204", "没有指定的发件人电子邮件地址");
 define("LAN_MAILOUT_205", "电子邮件发送格式错误");
-define("LAN_MAILOUT_206", "指定的 ID 无效邮件 (— — ID — —)");
+define("LAN_MAILOUT_206", "指定的 ID 无效邮件 ([x])");
 define("LAN_MAILOUT_207", "模板加载错误");
 define("LAN_MAILOUT_208", "模板转换错误");
-define("LAN_MAILOUT_209", "");
-define("LAN_MAILOUT_210", "");
 define("LAN_MAILOUT_211", "发送");
 define("LAN_MAILOUT_212", "失败");
 define("LAN_MAILOUT_213", "反弹");
@@ -206,24 +203,22 @@ define("LAN_MAILOUT_216", "代码错误");
 define("LAN_MAILOUT_217", "举行");
 define("LAN_MAILOUT_218", "取消");
 define("LAN_MAILOUT_219", "部分");
-define("LAN_MAILOUT_220", "电子邮件 ID — — ID — — 取消");
-define("LAN_MAILOUT_221", "ID — — ID — — 错误取消电子邮件");
+define("LAN_MAILOUT_220", "电子邮件 ID [x] 取消");
+define("LAN_MAILOUT_221", "ID [x] 错误取消电子邮件");
 define("LAN_MAILOUT_222", "默认的电子邮件格式");
 define("LAN_MAILOUT_223", "（用于某些系统生成的电子邮件）");
 define("LAN_MAILOUT_224", "公司图片");
 define("LAN_MAILOUT_225", "在电子邮件中包含图像");
-define("LAN_MAILOUT_226", "--张--孤儿收件人记录删除");
-define("LAN_MAILOUT_227", "删除--计数 — — 记录 — — 表 — —");
-define("LAN_MAILOUT_228", "--计数--异常的 mail_content 进行了校正;记录: — — 记录 — —");
-define("LAN_MAILOUT_229", "电子邮件 ID — — ID — — 穿上举行");
-define("LAN_MAILOUT_230", "ID — — ID — — 错误控股电子邮件");
+define("LAN_MAILOUT_227", "从 [y] 删除 [x] 记录");
+define("LAN_MAILOUT_228", "[x] mail_content 纠正的异常;记录: [y]");
+define("LAN_MAILOUT_229", "电子邮件 ID [x] 穿上举行");
+define("LAN_MAILOUT_230", "ID [x] 错误控股电子邮件");
 define("LAN_MAILOUT_231", "反弹的邮件-处理方法");
 define("LAN_MAILOUT_232", "没有一个");
 define("LAN_MAILOUT_233", "自动过程脚本");
 define("LAN_MAILOUT_234", "邮件帐户");
 define("LAN_MAILOUT_235", "（您的服务器必须转发，或者 '管' 从以上的电子邮件地址到上面的脚本路径）。");
 define("LAN_MAILOUT_236", "处理的最后一个反弹");
-define("LAN_MAILOUT_237", "摘要计数器更新 — — 计数 — — 电子邮件");
 define("LAN_MAILOUT_238", "最早的时间发送");
 define("LAN_MAILOUT_239", "最新的时间发送");
 define("LAN_MAILOUT_240", "通知我何时运行完整");
@@ -244,7 +239,19 @@ define("LAN_MAILOUT_254", "查看模板电子邮件");
 define("LAN_MAILOUT_255", "模板化的电子邮件，ID:");
 define("LAN_MAILOUT_256", "返回");
 define("LAN_MAILOUT_257", "生成的模板");
-define("LAN_MAILOUT_259", "");
 define("LAN_SEND", "发送");
 define("LAN_HOLD", "举行");
 define("LAN_MAILOUT_260", "用户类型");
+define("LAN_MAILOUT_261", "SMTP 端口");
+define("LAN_MAILOUT_262", "模板预览");
+define("LAN_MAILOUT_263", "收件人总数");
+define("LAN_MAILOUT_264", "嵌入媒体");
+define("LAN_MAILOUT_265", "挂");
+define("LAN_MAILOUT_266", "最大活动");
+define("LAN_MAILOUT_267", "生成公钥/私钥");
+define("LAN_MAILOUT_268", "仅开发人员模式");
+define("LAN_MAILOUT_269", "稍后发送");
+define("LAN_MAILOUT_270", "测试 SMTP 连接");
+define("LAN_MAILOUT_271", "身份验证失败, 用户名 ([x]) 和密码 ([y]):");
+define("LAN_MAILOUT_226", "[x] 已删除孤立的收件人记录");
+define("LAN_MAILOUT_237", "[x] 电子邮件更新的摘要计数器");

@@ -30,3 +30,5 @@ define("LAN_NEWS_87", "更新新闻");
 define("LAN_NEWS_462", "指定月份没有新闻项目");
 define("LAN_NEWS_100", "关于");
 define("LAN_NEWS_307", "此类别中的总文章 ︰");
+define("LAN_NEWS_463", "没有针对指定类别的新闻项目-请尽快检查回来。");
+define("LAN_NEWS_308", "也许您正在寻找下面的新闻项目之一？");

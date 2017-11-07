@@ -1,9 +1,19 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 20:24:32
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
+define("CUSLAN_1", "概述");
+define("CUSLAN_2", "页面标题");
+define("CUSLAN_3", "每页的项目");
+define("CUSLAN_4", "自定义字段");
+define("CUSLAN_5", "(新书)");
 define("CUSLAN_9", "文本");
 define("CUSLAN_11", "Meta 描述");
 define("CUSLAN_12", "创建页/菜单");
@@ -13,7 +23,7 @@ define("CUSLAN_31", "创建菜单");
 define("CUSLAN_48", "页面列表");
 define("CUSLAN_49", "菜单列表");
 define("CUSLAN_50", "列表的书籍章节");
-define("CUSLAN_51", "添加本书一章");
+define("CUSLAN_51", "添加书籍/章节");
 define("CUSLAN_52", "书");
 define("CUSLAN_53", "书或章节标题");
 define("CUSLAN_55", "可以通过编辑");
@@ -24,7 +34,6 @@ define("CUSLAN_59", "页面");
 define("CUSLAN_60", "页面选项");
 define("CUSLAN_61", "菜单");
 define("CUSLAN_62", "菜单选项");
-define("CUSLAN_63", "本书一章");
 define("CUSLAN_64", "菜单名称");
 define("CUSLAN_65", "菜单标题");
 define("CUSLAN_66", "菜单的身体");
@@ -40,3 +49,5 @@ define("CUSLAN_75", "缺少菜单-id 检测到 ︰");
 define("CUSLAN_76", "菜单路径 #");
 define("CUSLAN_77", "删除");
 define("CUSLAN_78", "无法删除菜单路径");
+define("CUSLAN_79", "必须输入页标题或菜单名。");
+define("CUSLAN_63", "书/章");

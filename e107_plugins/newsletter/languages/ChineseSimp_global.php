@@ -6,3 +6,5 @@
 
 define("LAN_PLUGIN_NEWSLETTER_NAME", "新闻稿");
 define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "提供快速和容易的方式来配置和发送新闻稿。");
+define("LAN_PLUGIN_NEWSLETTER_NAME", "通讯");
+define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "提供了一种快速简便的配置和发送新闻稿的方法。");

@@ -6,3 +6,5 @@
 
 define("LAN_PLUGIN_LINKWORDS_NAME", "Linkwords");
 define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "这个插件会将链接指定的词语定义的链接和/或工具提示。");
+define("LAN_PLUGIN_LINKWORDS_NAME", "Linkwords");
+define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "此插件将指定的单词与定义的链接和/或工具提示链接。");

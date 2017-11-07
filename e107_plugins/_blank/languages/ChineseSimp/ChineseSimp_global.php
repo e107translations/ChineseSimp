@@ -7,3 +7,6 @@
 define("LAN_PLUGIN__BLANK_NAME", "空白的插件");
 define("LAN_PLUGIN__BLANK_DIZ", "空白的插件，以帮助您开始在插件开发。可以在这里添加更多的细节。");
 define("LAN_PLUGIN__BLANK_LINK", "空链接");
+define("LAN_PLUGIN__BLANK_NAME", "空白插件");
+define("LAN_PLUGIN__BLANK_DIZ", "一个空白的插件, 帮助您开始在插件开发。更多的细节可以在这里添加。");
+define("LAN_PLUGIN__BLANK_LINK", "空白链接");

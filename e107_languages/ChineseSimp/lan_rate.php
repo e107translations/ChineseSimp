@@ -16,3 +16,8 @@ define("RATELAN_FAIR", "公平");
 define("RATELAN_GOOD", "好");
 define("RATELAN_VERYGOOD", "非常好");
 define("RATELAN_EXCELLENT", "非常好");
+define("RATELAN_7", "像");
+define("RATELAN_8", "喜欢");
+define("RATELAN_9", "你已经投票");
+define("RATELAN_10", "分级中没有项目 ID");
+define("RATELAN_11", "分级失败");

@@ -6,3 +6,5 @@
 
 define("LAN_PLUGIN_IMPORT_NAME", "导入 e107");
 define("LAN_PLUGIN_IMPORT_DESCRIPTION", "从 Wordpress，Joomla，Drupal、 博客、 RSS 和其他格式导入数据。");
+define("LAN_PLUGIN_IMPORT_NAME", "导入到 e107");
+define("LAN_PLUGIN_IMPORT_DESCRIPTION", "从 Wordpress、Joomla、Drupal、博客、RSS 和其他格式导入数据。");

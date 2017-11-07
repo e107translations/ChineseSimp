@@ -6,3 +6,5 @@
 
 define("LAN_PLUGIN_GSITEMAP_NAME", "谷歌网站地图");
 define("LAN_PLUGIN_GSITEMAP_DESCRIPTION", "生成一个谷歌网站地图");
+define("LAN_PLUGIN_GSITEMAP_NAME", "谷歌网站地图");
+define("LAN_PLUGIN_GSITEMAP_DESCRIPTION", "生成 Google 站点地图");

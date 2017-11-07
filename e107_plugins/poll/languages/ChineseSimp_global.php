@@ -6,3 +6,5 @@
 
 define("LAN_PLUGIN_POLL_NAME", "投票");
 define("LAN_PLUGIN_POLL_DESCRIPTION", "投票插件允许您定义民意调查在任一菜单或论坛的帖子。");
+define("LAN_PLUGIN_POLL_NAME", "调查");
+define("LAN_PLUGIN_POLL_DESCRIPTION", "投票插件允许您在菜单或论坛帖子中定义轮询。");

@@ -5,3 +5,4 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_PLUGIN_PAGE_BOCHAP", "在本书一章搜索");
+define("LAN_PLUGIN_PAGE_BOCHAP", "在书/章中搜索");

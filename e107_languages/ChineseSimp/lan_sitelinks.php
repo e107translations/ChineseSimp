@@ -5,4 +5,5 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_SITELINKS_183", "主菜单");
-define("LAN_SITELINKS_502", "管理区");
+// define("LAN_SITELINKS_502", "管理区");
+

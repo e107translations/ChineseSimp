@@ -1,10 +1,15 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("PAGE_NAME", "上传");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 20:20:46
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
+define("PAGE_NAME", "上载");
 define("LAN_UL_001", "无效的电子邮件地址");
 define("LAN_UL_002", "您没有将文件上载到此服务器的正确权限。");
 define("LAN_UL_020", "错误");
@@ -12,16 +17,13 @@ define("LAN_UL_021", "上传失败");
 define("LAN_UL_022", "按文件类型可能会发生变化");
 define("LAN_UL_023", "类型");
 define("LAN_UL_024", "最大尺寸");
-define("LAN_UL_025", "不允许上传");
-define("LAN_UL_026", "");
-define("LAN_UL_027", "");
+define("LAN_UL_025", "不允许上载");
 define("LAN_UL_032", "您必须选择一个类别");
 define("LAN_UL_033", "您必须输入一个有效的电子邮件地址");
 define("LAN_UL_034", "您必须指定文件的名称");
 define("LAN_UL_035", "您必须输入描述");
 define("LAN_UL_036", "您必须指定要上载的文件");
 define("LAN_UL_037", "您必须指定一个类别");
-define("LAN_UL_038", "");
 define("LAN_61", "您的姓名：");
 define("LAN_112", "电子邮件地址 ︰");
 define("LAN_144", "网址 ︰");
@@ -36,9 +38,12 @@ define("LAN_411", "文件");
 define("LAN_413", "描述");
 define("LAN_414", "工作演示");
 define("LAN_415", "URL 输入到网站在哪里可以查看演示");
-define("LAN_416", "提交和上传");
 define("LAN_417", "上传文件");
 define("LAN_418", "绝对最大文件大小 ︰");
 define("DOWLAN_11", "类别");
 define("LAN_419", "允许的文件类型");
 define("LAN_420", "字段是必需的");
+define("LAN_UL_026", "");
+define("LAN_UL_027", "");
+define("LAN_UL_038", "");
+define("LAN_416", "提交和上传");

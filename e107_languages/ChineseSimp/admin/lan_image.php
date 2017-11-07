@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/06 20:08:15
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 define("LAN_IMA_M_01", "媒体库");
 define("LAN_IMA_M_02", "上传/导入媒体");
 define("LAN_IMA_M_03", "媒体类别");
@@ -64,7 +69,7 @@ define("IMALAN_54", "安装的 GD 版本 ︰");
 define("IMALAN_55", "未安装");
 define("IMALAN_56", "单击以选中");
 define("IMALAN_57", "图像太大-单击放大");
-define("IMALAN_62", "原因");
+define("IMALAN_62", "原�");
 define("IMALAN_65", "未找到任何内容");
 define("IMALAN_66", "文件名");
 define("IMALAN_68", "关闭");
@@ -75,7 +80,7 @@ define("IMALAN_74", "这尽可能低之前设置质量损失是明显。最大�
 define("IMALAN_75", "阿凡达宽度");
 define("IMALAN_76", "阿凡达 》 的图像将限于这些尺寸 （以像素为单位）");
 define("IMALAN_77", "阿凡达高度");
-define("IMALAN_78", "");
+define("IMALAN_78", "秘书长");
 define("IMALAN_79", "调整图像尺寸");
 define("IMALAN_80", "水印激活");
 define("IMALAN_81", "所有图像的宽度或高度大于此值会都有水印在调整大小时。");
@@ -86,7 +91,7 @@ define("IMALAN_85", "可选的水印字体。将更多的.ttf 字体上传到你
 define("IMALAN_86", "水印大小");
 define("IMALAN_87", "在 pts 字体的大小");
 define("IMALAN_88", "水印位置");
-define("IMALAN_89", "");
+define("IMALAN_89", "水印");
 define("IMALAN_90", "水印缘");
 define("IMALAN_91", "水印的距离会出现从图像的边缘。");
 define("IMALAN_92", "水印颜色");
@@ -107,7 +112,7 @@ define("IMALAN_106", "若要禁用为空");
 define("IMALAN_107", "不能从上载数据生成路径");
 define("IMALAN_108", "无法移动文件从 [x] 到 [y]");
 define("IMALAN_109", "不能获取路径");
-define("IMALAN_110", "");
+define("IMALAN_110", "路径");
 define("IMALAN_111", "不能检测到 mime-type([x])。上传失败。");
 define("IMALAN_112", "无法创建文件夹 ([x])。");
 define("IMALAN_113", "在文件夹中扫描新媒体 （图像、 视频、 文件） ︰");
@@ -125,3 +130,56 @@ define("IMALAN_125", "删除选定的文件");
 define("IMALAN_126", "请检查至少一个文件。");
 define("IMALAN_127", "无法从文件信息 ︰");
 define("IMALAN_128", "导入媒体 ︰");
+define("IMALAN_129", "您将删除 [x] 记录和<strong>所有相应的文件</strong>!请确认继续!");
+define("IMALAN_130", "上一页");
+define("IMALAN_131", "下一页");
+define("IMALAN_132", "标签/关键词");
+define("IMALAN_133", "右下角");
+define("IMALAN_134", "左下");
+define("IMALAN_135", "右上");
+define("IMALAN_136", "左上");
+define("IMALAN_137", "中心");
+define("IMALAN_138", "权利");
+define("IMALAN_139", "左");
+define("IMALAN_140", "返回页首");
+define("IMALAN_141", "底部");
+define("IMALAN_142", "瓷砖");
+define("IMALAN_143", "图像");
+define("IMALAN_144", "文件");
+define("IMALAN_145", "从您的计算机");
+define("IMALAN_146", "没有 HTML5 支持。");
+define("IMALAN_147", "从远程位置");
+define("IMALAN_148", "图像/文件 URL");
+define("IMALAN_149", "开始上�");
+define("IMALAN_150", "上传文件");
+define("IMALAN_151", "从库中选择");
+define("IMALAN_152", "外观");
+define("IMALAN_153", "正在使用的图像");
+define("IMALAN_154", "未在使用中");
+define("IMALAN_155", "头像预选文件夹");
+define("IMALAN_156", "删除所有未使用的图像");
+define("IMALAN_157", "文本流");
+define("IMALAN_158", "左边距");
+define("IMALAN_159", "右边距");
+define("IMALAN_160", "上边距");
+define("IMALAN_161", "下边距");
+define("IMALAN_162", "显示 [z] 图像的 [x]-[y]。");
+define("IMALAN_163", "视频");
+define("IMALAN_164", "从媒体管理器中删除的图标");
+define("IMALAN_165", "无图像");
+define("IMALAN_166", "上传图片或文件");
+define("IMALAN_167", "无文件");
+define("IMALAN_168", "点击头像改变它");
+define("IMALAN_169", "没有可用的头像");
+define("IMALAN_170", "选择这个头像");
+define("IMALAN_171", "仅管理员通知: 文件夹");
+define("IMALAN_172", "是空的。上传一些默认的头像图像到这个文件夹供用户选择头像。");
+define("IMALAN_173", "找不到媒体所有者。");
+define("IMALAN_174", "youtube 搜索需要一个 (免费) youtube v3 的 api 密钥。[br]除非您希望执行关键字、播放列表或频道搜索, 否则不需要此密钥。br]在上面的框中直接输入 Youtube 视频 URL 仍然不需要使用 api 密钥。[br][x]");
+define("IMALAN_175", "搜索 Youtube粘贴任何 YouTube 网址在这里为一个特定的视频/播放列表/频道");
+define("IMALAN_176", "抓取文件时出现问题");
+define("IMALAN_177", "单击此处获取更多信息并输入您的 api 密钥");
+define("IMALAN_178", "头像文件夹 (用户可选)");
+define("IMALAN_179", "头像文件夹 (专用)");
+define("IMALAN_180", "在中找到0字节文件:");
+define("IMALAN_181", "请在继续之前删除。");

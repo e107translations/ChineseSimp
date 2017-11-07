@@ -21,3 +21,7 @@ define("LANCONTACT_13", "请包括一门学科。");
 define("LANCONTACT_14", "向其发送消息 ︰");
 define("LANCONTACT_15", "输入的错误代码");
 define("LANCONTACT_16", "你必须 [注册] 和签署中使用这种形式。");
+define("LANCONTACT_17", "请输入您的姓名。");
+define("LANCONTACT_18", "请输入您的电子邮件地址。");
+define("LANCONTACT_19", "请输入电子邮件的主题。");
+define("LANCONTACT_20", "请为我们输入您的留言。");

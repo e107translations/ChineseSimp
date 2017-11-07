@@ -14,4 +14,5 @@ define("FLALAN_10", "删除 / 禁止检查条目");
 define("FLALAN_15", "下列的 IP 地址已经自动禁止-用户尝试登录失败十余");
 define("FLALAN_16", "删除此自动禁止列表");
 define("FLALAN_17", "自动禁止列表中删除");
-define("FLALAN_18", "可以不禁止 IP 地址-IP--在白名单");
+// define("FLALAN_18", "可以不禁止 IP 地址-IP--在白名单");
+

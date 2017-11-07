@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/07 15:00:55
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "搜索");
 define("LAN_140", "成员");
@@ -15,7 +21,7 @@ define("LAN_197", "下载");
 define("LAN_198", "未找到匹配项");
 define("LAN_199", "搜索 ︰");
 define("LAN_416", "你必须登录才能访问此页");
-define("LAN_417", "搜索条件必须至少 — — 字符 — — 个字符。");
+define("LAN_417", "搜索条件必须至少 [x] 个字符。");
 define("LAN_418", "其他页面");
 define("LAN_SEARCH_1", "检查所有");
 define("LAN_SEARCH_2", "取消全部选中");

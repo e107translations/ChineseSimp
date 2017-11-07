@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system ChineseSimp Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/11/07 15:01:50
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("EXTLAN_1", "名称");
 define("EXTLAN_2", "预览");
@@ -64,7 +70,6 @@ define("EXTLAN_57", "激活");
 define("EXTLAN_58", "未激活");
 define("EXTLAN_59", "激活");
 define("EXTLAN_60", "停用");
-// define("EXTLAN_61", "没有一个");
 define("EXTLAN_62", "表");
 define("EXTLAN_63", "字段 Id");
 define("EXTLAN_64", "显示值");
@@ -81,9 +86,15 @@ define("EXTLAN_74", "是保留的字段名称，不能用。");
 define("EXTLAN_75", "向数据库添加字段时出错。");
 define("EXTLAN_76", "字段中的无效字符 name-只有 A-Z，a-z，0-9，允许。");
 define("EXTLAN_77", "类别不会删除-必须先删除类别中的字段 ︰");
-define("EXTLAN_78", "找不到文件 — — 文件 — — 需要创建数据表格");
+define("EXTLAN_78", "找不到文件 [x] 需要创建数据表格");
 define("EXTLAN_79", "标签");
 define("EXTLAN_80", "验证错误-中止。");
+define("EXTLAN_81", "添加自定义域");
+define("EXTLAN_82", "值");
+define("EXTLAN_83", "符");
+define("EXTLAN_84", "帮助提示");
+define("EXTLAN_86", "从表中删除用户扩展列");
+define("EXTLAN_87", "排序值");
 define("EXTLAN_HELP_1", "[b]<i>参数 ︰</i>[/b]<br>字段的大小<br>maxlength-字段的最大长度<br><br>css 类的字段<br>样式的 css 样式的字符串<br><br>正则表达式-正则表达式验证代码<br>regexfail-验证失败的文本");
 define("EXTLAN_HELP_2", "值框-每个选项的一个框中的选项输入的文本。根据需要添加新的盒子");
 define("EXTLAN_HELP_3", "值框-每个选项的一个框中的选项输入的文本。根据需要添加新的盒子");
@@ -93,10 +104,3 @@ define("EXTLAN_HELP_6", "允许用户输入一个数字值");
 define("EXTLAN_HELP_7", "要求用户输入一个日期");
 define("EXTLAN_HELP_8", "允许用户从已安装的语言选择");
 define("EXTLAN_HELP_9", "指定一个预定义的列表。值字段选择列表-类型的目前只有 '时区' 是一个有效的条目");
-define("EXTLAN_81", "添加自定义域");
-define("EXTLAN_82", "值");
-define("EXTLAN_83", "符");
-define("EXTLAN_84", "帮助提示");
-define("EXTLAN_86", "从表中删除用户扩展列");
-define("EXTLAN_87", "排序值");
-
